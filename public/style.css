@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(146, 160, 254);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: sans-serif;
+}
